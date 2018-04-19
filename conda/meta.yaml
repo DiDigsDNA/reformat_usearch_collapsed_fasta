@@ -1,0 +1,18 @@
+package:
+  name: reformat_usearch_collapsed_fasta
+  version: 0.0.0
+
+source:
+  git_url: https://github.com/didigsdna/reformat_usearch_collapsed_fasta
+  git_rev: master
+
+requirements:
+  run:
+    - python
+
+build:
+  number: 0
+
+about:
+  home: https://github.com/DiDigsDNA/reformat_usearch_collapsed_fasta
+
